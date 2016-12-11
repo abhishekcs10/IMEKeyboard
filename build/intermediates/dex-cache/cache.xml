@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4aa2d776a49e47441d01d90e18a1e30cc6dfe921">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5598cafbeb7a60c03bc8fedeb3eb4f3f02282afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_1e931b6cd1d544356fe54ae1be630d00a56f32b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_a6ee181711a0d36453dda69266556ffc01aa459c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_c8f5df80dfb80c6ad9bdf4c450b701e0fb206694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_743138fad5e7bf50f18fbbcc7ec9d1c173e61f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_e613b64d8c11e0eb2db9d57f457d76064d25de56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f37be075cf7323c90303c96c938c9dad8d01efef">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f55b1d405e653c02468ef20c11407c43b406112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_dfea0f70df9915a19ccd7736ba07ba6b33da9a9a/classes.dex" />
+    </item>
+
+</items>

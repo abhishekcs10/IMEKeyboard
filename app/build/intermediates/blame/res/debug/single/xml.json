@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/res/merged/debug/xml/ime_preferences.xml",
+        "source": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/src/main/res/xml/ime_preferences.xml"
+    },
+    {
+        "merged": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/res/merged/debug/xml/qwerty.xml",
+        "source": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/src/main/res/xml/qwerty.xml"
+    }
+]

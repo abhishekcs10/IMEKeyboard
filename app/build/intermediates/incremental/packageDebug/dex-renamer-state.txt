@@ -1,0 +1,7 @@
+#Fri Nov 18 15:45:14 IST 2016
+base.0=/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f55b1d405e653c02468ef20c11407c43b406112
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5598cafbeb7a60c03bc8fedeb3eb4f3f02282afe/classes.dex
+base.1=/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5598cafbeb7a60c03bc8fedeb3eb4f3f02282afe
+file.0=/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f55b1d405e653c02468ef20c11407c43b406112/classes.dex

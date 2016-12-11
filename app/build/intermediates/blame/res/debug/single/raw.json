@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/res/merged/debug/raw/words2.txt",
+        "source": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/src/main/res/raw/words2.txt"
+    },
+    {
+        "merged": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/build/intermediates/res/merged/debug/raw/words.txt",
+        "source": "/home/abhishekcs10/Android/AndroidStudioProjects/ShaKeyboard/app/src/main/res/raw/words.txt"
+    }
+]
