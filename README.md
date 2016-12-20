@@ -20,7 +20,7 @@ http://stackoverflow.com/questions/30787066/retrieve-x-and-y-coordinates-of-a-ke
 Request->
 ---------
 
-Please suggest any better technique for making predictions if any...
+Please suggest any better technique for making predictions of words if any. Your thoughts are welcomed...:)
 
 Thank you
 
